@@ -106,8 +106,8 @@ section h2 {
 }
 
 #tecnology {
-    background: linear-gradient(rgba(255, 255, 255, 0.781), rgba(255, 255, 255, 0.514)), 
-       url(https://static.vecteezy.com/ti/vetor-gratis/p3/2184697-abstrato-azul-circuito-tecnologia-fundo-vetor.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.781), rgba(255, 255, 255, 0.514)),
+    url(./imagens/fundo_tec.jpg);
     
 }
 
